@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/picture">
+        <file>cover.jpg</file>
+        <file>play.jpg</file>
+        <file>exit.jpg</file>
+        <file>bg_clear.png</file>
+        <file>face.jpg</file>
+        <file>face2.jpg</file>
+    </qresource>
+</RCC>
